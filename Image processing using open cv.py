@@ -3,7 +3,7 @@
 
 # In[9]:
 
-
+#Intallation purpose use this command
 get_ipython().system('pip install opencv-python numpy matplotlib')
 
 
